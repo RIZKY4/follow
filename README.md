@@ -10,4 +10,4 @@
 
 ![#c5f015](https://imgrp2.xiaolee.net/i/aHR0cHM6Ly9wbGFjZWhvbGQuaXQvMTUvYzVmMDE1LzAwMDAwMD90ZXh0PSs=.jpg) `php follow.php`
 
-Tools Traodoisub Auto Follow,likes,comment & like halaman Facebook
+Tools traodoisub auto follow,likes,comment & like halaman facebook
